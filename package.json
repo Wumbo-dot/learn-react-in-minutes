@@ -12,7 +12,8 @@
     "uuid": "^9.0.0",
     "uuidv4": "^6.2.13",
     "web-vitals": "^2.1.4",
-    "webpack": "^4.19.1"
+    "webpack": "^4.19.1",
+    "webpack-cli": "^4.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
